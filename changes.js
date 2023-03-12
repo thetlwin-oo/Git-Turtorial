@@ -1,2 +1,2 @@
 console.log("changes.js")
-console.lot("version2")
+console.lot("version3")
