@@ -1,2 +1,2 @@
-console.log("changes")
-console.log("version")
+console.log("changes.js")
+console.lot("version2")
